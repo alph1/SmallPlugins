@@ -1,0 +1,8 @@
+name: BroadcastPlugin
+main: me.slacktooth.broadcastplugin.BroadcastPlugin
+version: 1.0
+author: slacktooth
+commands:
+  broadcast:
+    description: Broadcasts a message
+    permission: broadcastplugin.use
