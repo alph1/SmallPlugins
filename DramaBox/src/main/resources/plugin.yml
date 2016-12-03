@@ -1,0 +1,7 @@
+name: Drama
+main: me.slacktooth.dramabox.DramaBox
+author: slacktooth
+version: 1.0
+commands:
+  drama:
+    description: Drama lert nation im yer host

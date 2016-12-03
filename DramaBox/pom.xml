@@ -5,12 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.slacktooth</groupId>
-    <artifactId>CommandsOnStart</artifactId>
+    <artifactId>DramaBox</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <modules>
-        <module>../DramaBox</module>
-    </modules>
 
     <repositories>
         <repository>
