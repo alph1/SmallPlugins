@@ -1,0 +1,4 @@
+name: FilterChat
+main: me.slacktooth.filterchat.FilterChat
+version: 1.0
+author: slacktooth

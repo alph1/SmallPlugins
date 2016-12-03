@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.slacktooth</groupId>
-    <artifactId>what</artifactId>
+    <artifactId>FilterChat</artifactId>
     <version>1.0</version>
 
     <repositories>
@@ -28,7 +28,6 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
-
 
 
 </project>
