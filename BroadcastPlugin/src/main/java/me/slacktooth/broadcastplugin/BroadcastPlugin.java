@@ -11,7 +11,7 @@ public class BroadcastPlugin extends JavaPlugin {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        if(sender instanceof Player && !sender.hasPermission("broadcastplugin.use")) {
+        if (sender instanceof Player && !sender.hasPermission("broadcastplugin.use")) {
             return false;
         }
         String message = args[0];
