@@ -6,6 +6,6 @@ public class InvTest extends JavaPlugin {
 
     @Override
     public void onEnable() {
-
+        this.getServer().getPluginManager().registerEvents(new InvTestListener(), this);
     }
 }
