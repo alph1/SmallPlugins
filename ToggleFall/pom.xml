@@ -6,7 +6,11 @@
 
     <groupId>me.slacktooth</groupId>
     <artifactId>ToggleFall</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>../SampleEncryption</module>
+    </modules>
 
     <repositories>
         <repository>

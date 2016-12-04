@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BroadcastPlugin" />
+        <module name="EmeraldSword" />
+        <module name="FilterChat" />
+        <module name="InvTest" />
+        <module name="KillReward" />
+        <module name="NoMaxSlots" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BroadcastPlugin" target="1.5" />
+      <module name="ClearArmor" target="1.5" />
+      <module name="CommandsOnStart" target="1.5" />
+      <module name="DramaBox" target="1.5" />
+      <module name="EmeraldSword" target="1.5" />
+      <module name="FilterChat" target="1.5" />
+      <module name="InvTest" target="1.5" />
+      <module name="ItemRename" target="1.5" />
+      <module name="Kill4Money" target="1.5" />
+      <module name="KillReward" target="1.5" />
+      <module name="NoMaxSlots" target="1.5" />
+      <module name="SampleEncryption" target="1.5" />
+      <module name="ToggleFall" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

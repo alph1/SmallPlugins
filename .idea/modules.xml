@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BroadcastPlugin/BroadcastPlugin.iml" filepath="$PROJECT_DIR$/BroadcastPlugin/BroadcastPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandsOnStart/CommandsOnStart.iml" filepath="$PROJECT_DIR$/CommandsOnStart/CommandsOnStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DramaBox/DramaBox.iml" filepath="$PROJECT_DIR$/DramaBox/DramaBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmeraldSword/EmeraldSword.iml" filepath="$PROJECT_DIR$/EmeraldSword/EmeraldSword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilterChat/FilterChat.iml" filepath="$PROJECT_DIR$/FilterChat/FilterChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InvTest/InvTest.iml" filepath="$PROJECT_DIR$/InvTest/InvTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToggleFall/Kill4Money.iml" filepath="$PROJECT_DIR$/ToggleFall/Kill4Money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KillReward/KillReward.iml" filepath="$PROJECT_DIR$/KillReward/KillReward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoMaxSlots/NoMaxSlots.iml" filepath="$PROJECT_DIR$/NoMaxSlots/NoMaxSlots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToggleFall/ToggleFall.iml" filepath="$PROJECT_DIR$/ToggleFall/ToggleFall.iml" />
+    </modules>
+  </component>
+</project>
