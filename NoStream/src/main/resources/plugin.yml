@@ -1,0 +1,4 @@
+name: NoStream
+main: me.slacktooth.nostream.NoStream
+version: 1.0
+author: slacktooth
