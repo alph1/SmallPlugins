@@ -1,6 +1,5 @@
 package me.slacktooth.broadcastplugin;
 
-import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
@@ -15,7 +14,7 @@ public class BroadcastPlugin extends JavaPlugin {
             return false;
         }
         String message = args[0];
-        Bukkit.broadcastMessage(ChatColor.translateAlternateColorCodes('&', message));
+        this.getServer().broadcastMessage(ChatColor.translateAlternateColorCodes('&', message));
         this.getServer().getLogger().info("Message: " + message);
         this.getServer().getLogger().info("Broadcasted by: " + sender.getName());
         return false;
