@@ -1,0 +1,4 @@
+name: CmdBlocker
+main: me.slacktooth.cmdblocker.CmdBlocker
+version: 1.0
+author: slacktooth
