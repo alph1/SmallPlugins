@@ -1,0 +1,5 @@
+name: BasicElo
+main: me.favorcrush.basicelo.BasicElo
+version: 1.0
+author: Favorcrush
+depend: [PlayerRating]
