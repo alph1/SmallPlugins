@@ -15,13 +15,12 @@ public class DramaBox extends JavaPlugin {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        if (!(sender instanceof Player)) {
-            return false;
-        }
-        Player player = (Player) sender;
         Random random = new Random();
-
-        player.sendMessage(ChatColor.GREEN + drama.get(random.nextInt(drama.size())));
+        if (sender instanceof Player) {
+            sender.sendMessage(ChatColor.GREEN + drama.get(random.nextInt(drama.size())));
+        } else {
+            sender.sendMessage(drama.get(random.nextInt(drama.size())));
+        }
         return false;
     }
 }
