@@ -1,0 +1,12 @@
+name: ItemRename
+main: me.rigbyrigby.itemrename.ItemRename
+author: rigbys
+version: 1.0
+commands:
+  rename:
+    description: Renames an item
+    permission: itemrename.use
+permissions:
+  itemrename.use:
+    default: false
+    description: Lets you use /rename

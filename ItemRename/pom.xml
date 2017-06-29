@@ -2,15 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>KillReward</artifactId>
+        <groupId>me.slacktooth</groupId>
+        <version>1.0</version>
+        <relativePath>../KillReward/pom.xml</relativePath>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>me.slacktooth</groupId>
-    <artifactId>KillReward</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0</version>
-    <modules>
-        <module>../ItemRename</module>
-    </modules>
+    <artifactId>ItemRename</artifactId>
+    <name>ItemRename</name>
 
     <repositories>
         <repository>
